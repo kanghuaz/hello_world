@@ -1,0 +1,76 @@
+CurrPic FrameIdx: 1
+CurrPic PicFlags: 0X4
+RefFrameList[0] FrameIdx:0
+RefFrameList[0] PicFlags:0X10
+RefFrameList[1] FrameIdx:127
+RefFrameList[1] PicFlags:0X80
+RefFrameList[2] FrameIdx:127
+RefFrameList[2] PicFlags:0X80
+RefFrameList[3] FrameIdx:127
+RefFrameList[3] PicFlags:0X80
+RefFrameList[4] FrameIdx:127
+RefFrameList[4] PicFlags:0X80
+RefFrameList[5] FrameIdx:127
+RefFrameList[5] PicFlags:0X80
+RefFrameList[6] FrameIdx:127
+RefFrameList[6] PicFlags:0X80
+RefFrameList[7] FrameIdx:127
+RefFrameList[7] PicFlags:0X80
+RefFrameList[8] FrameIdx:127
+RefFrameList[8] PicFlags:0X80
+RefFrameList[9] FrameIdx:127
+RefFrameList[9] PicFlags:0X80
+RefFrameList[10] FrameIdx:127
+RefFrameList[10] PicFlags:0X80
+RefFrameList[11] FrameIdx:127
+RefFrameList[11] PicFlags:0X80
+RefFrameList[12] FrameIdx:127
+RefFrameList[12] PicFlags:0X80
+RefFrameList[13] FrameIdx:127
+RefFrameList[13] PicFlags:0X80
+RefFrameList[14] FrameIdx:127
+RefFrameList[14] PicFlags:0X80
+pic_width_in_mbs_minus1: 119
+pic_height_in_mbs_minus1: 67
+bit_depth_luma_minus8: 0
+bit_depth_chroma_minus8: 0
+num_ref_frames: 3
+CurrFieldOrderCnt: 6
+CurrFieldOrderCnt: 6
+FieldOrderCntList[0]:0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+FieldOrderCntList[1]:0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+seq_fields value: 58025
+chroma_format_idc: 1
+residual_colour_transform_flag: 0
+frame_mbs_only_flag: 0X1
+mb_adaptive_frame_field_flag: 0
+direct_8x8_inference_flag: 0X1
+log2_max_frame_num_minus4: 5
+pic_order_cnt_type: 0
+log2_max_pic_order_cnt_lsb_minus4: 7
+delta_pic_order_always_zero_flag: 0
+num_slice_groups_minus1:0
+slice_group_map_type:0
+slice_group_change_rate_minus1:0
+pic_init_qp_minus26:25
+chroma_qp_index_offset:6
+second_chroma_qp_index_offset:6
+pic_fields value: 1281
+entropy_coding_mode_flag: 0X1
+weighted_pred_flag: 0
+weighted_bipred_idc: 0
+transform_8x8_mode_flag: 0
+field_pic_flag: 0
+constrained_intra_pred_flag: 0
+pic_order_present_flag: 0
+deblocking_filter_control_present_flag: 0X1
+redundant_pic_cnt_present_flag: 0
+reference_pic_flag: 0X1
+IntraPicFlag: 0
+num_ref_idx_l0_active_minus1: 2
+num_ref_idx_l1_active_minus1: 2
+NonExistingFrameFlags: 0
+UsedForReferenceFlags: 0X3
+frame_num: 1
+StatusReportFeedbackNumber: 3
+scaling_list_present_flag_buffer:0000000000000000
