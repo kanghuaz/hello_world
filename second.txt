@@ -1,0 +1,6 @@
+Libva, core change
+Mpeg2 mplayer , mfxplayer
+Uber SKL BDW 
+MDA not supported MPEG2 and VC1
+Uber gft, lagecy 
+Strategy support 
