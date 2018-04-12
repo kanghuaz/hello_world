@@ -1,4 +1,2 @@
-difjacjalsdcj
-jcdsiohodau09
-oid90
+# how to manage local file and remote repository
 
